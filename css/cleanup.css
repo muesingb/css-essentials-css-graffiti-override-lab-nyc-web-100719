@@ -13,7 +13,7 @@ div#wall #tag-2~#tag-3[class="slick wicked"]{
   display: none;
 }
 
-div#wall .parent #tag-5.slick{
+div#wall div.parent #tag-5.slick{
   display: none;
 }/**/
 
