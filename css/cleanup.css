@@ -21,6 +21,6 @@ body div#wall div.parent div:last-child div#tag-6{
   display: none;
 }
 
-body div#wall div.parent div:first-of-type div > #tag-7.slick {
+body div#wall div.parent div[id="tag-7"] div > #tag-7.slick {
   display: none;
 } /**/
