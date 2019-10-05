@@ -5,7 +5,7 @@
   display: none;
 }
 
-#wall .slick #tag-3 {
+#wall #tag-3 [class="slick wicked"] {
   display: none;
 }
 
